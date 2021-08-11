@@ -1,6 +1,6 @@
 En el entorno de pruebas se cumplen las siguientes premisas:
 
-- CarpetaVacia1: Carpeta Vacía
+- CarpetaVacia1: Carpeta Vacía (para poder subirla a github le hemos incluido un fichero en su interior)
 - CarpetaVacia2: Carpeta sin ficheros con el mismo nombre
 - test01: Fichero vacío con el mismo nombre que el subdirectorio (al menos)
 - test02: Fichero vacío con el mismo nombre que el subdirectorio (al menos)
