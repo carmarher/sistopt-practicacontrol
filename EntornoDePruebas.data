@@ -1,0 +1,581 @@
+	 _______________________________________________________________
+	|								|
+	|			INFORME RESULTADOS 			|
+	|		    SCRIPT COMPARACIÓN ARCHIVOS 		|
+	|_______________________________________________________________|
+	|								|
+	|	NOMBRE:	CompareFiles.sh					|
+	|	AUTOR:	Carlos Martínez Hernández			|
+	|	FECHA:	09/04/2020					|
+	|	DESCRIPCIÓN: Este Script compara el porcentaje de	|
+	|		     coincidencias que existe entre una serie 	|
+	|		     de bash-scripts cuyo nombre coincide con 	|
+	|		     el del subdirectorio que los contiene	|
+	|_______________________________________________________________|
+
+
+El Script ha encontrado 7 ficheros para comparar.
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 2: "./test02/test02":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 2	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    0		|         1.00       |
+Num. líneas vacías:	|	    0		|	    0		|         1.00       |
+Num. líneas comentario:	|	    0		|	    0		|         1.00       |
+Num. líneas código:	|	    0		|	    0		|         1.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    0		|         1.00       |
+Num. sentencias for:	|	    0		|	    0		|         1.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    0		|         1.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    0		|         1.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test02/test02" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test02/test02" están vacíos
+
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 3: "./test03/test03":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 3	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    94		|         0.00       |
+Num. líneas vacías:	|	    0		|	    14		|         0.00       |
+Num. líneas comentario:	|	    0		|	    52		|         0.00       |
+Num. líneas código:	|	    0		|	    28		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    1		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    5		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    10		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test03/test03" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test03/test03" coinciden en un 0.00%
+
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 4: "./test04/test04":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 4	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    105		|         0.00       |
+Num. líneas vacías:	|	    0		|	    7		|         0.00       |
+Num. líneas comentario:	|	    0		|	    73		|         0.00       |
+Num. líneas código:	|	    0		|	    25		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    1		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    3		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    8		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test04/test04" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test04/test04" coinciden en un 0.00%
+
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 5: "./test05/test05":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 5	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    304		|         0.00       |
+Num. líneas vacías:	|	    0		|	    30		|         0.00       |
+Num. líneas comentario:	|	    0		|	    153		|         0.00       |
+Num. líneas código:	|	    0		|	    121		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    4		|         0.00       |
+Num. sentencias for:	|	    0		|	    5		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    41		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    31		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test05/test05" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test05/test05" coinciden en un 0.00%
+
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 6: "./test06/test06":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 6	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    304		|         0.00       |
+Num. líneas vacías:	|	    0		|	    30		|         0.00       |
+Num. líneas comentario:	|	    0		|	    153		|         0.00       |
+Num. líneas código:	|	    0		|	    121		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    4		|         0.00       |
+Num. sentencias for:	|	    0		|	    5		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    41		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    31		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test06/test06" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test06/test06" coinciden en un 0.00%
+
+
+
+Comparando Fichero 1:"./test01/test01" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 1	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    205		|         0.00       |
+Num. líneas vacías:	|	    0		|	    21		|         0.00       |
+Num. líneas comentario:	|	    0		|	    81		|         0.00       |
+Num. líneas código:	|	    0		|	    103		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    3		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    43		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    26		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test01/test01" y el Fichero "./test07/test07" tienen 0 líneas en común.
+
+El Fichero "./test01/test01" y el Fichero "./test07/test07" coinciden en un 0.00%
+
+
+
+Comparando Fichero 2:"./test02/test02" con Fichero 3: "./test03/test03":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 2	|	FICHERO 3	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    94		|         0.00       |
+Num. líneas vacías:	|	    0		|	    14		|         0.00       |
+Num. líneas comentario:	|	    0		|	    52		|         0.00       |
+Num. líneas código:	|	    0		|	    28		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    1		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    5		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    10		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test02/test02" y el Fichero "./test03/test03" tienen 0 líneas en común.
+
+El Fichero "./test02/test02" y el Fichero "./test03/test03" coinciden en un 0.00%
+
+
+
+Comparando Fichero 2:"./test02/test02" con Fichero 4: "./test04/test04":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 2	|	FICHERO 4	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    105		|         0.00       |
+Num. líneas vacías:	|	    0		|	    7		|         0.00       |
+Num. líneas comentario:	|	    0		|	    73		|         0.00       |
+Num. líneas código:	|	    0		|	    25		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    1		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    3		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    8		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test02/test02" y el Fichero "./test04/test04" tienen 0 líneas en común.
+
+El Fichero "./test02/test02" y el Fichero "./test04/test04" coinciden en un 0.00%
+
+
+
+Comparando Fichero 2:"./test02/test02" con Fichero 5: "./test05/test05":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 2	|	FICHERO 5	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    304		|         0.00       |
+Num. líneas vacías:	|	    0		|	    30		|         0.00       |
+Num. líneas comentario:	|	    0		|	    153		|         0.00       |
+Num. líneas código:	|	    0		|	    121		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    4		|         0.00       |
+Num. sentencias for:	|	    0		|	    5		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    41		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    31		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test02/test02" y el Fichero "./test05/test05" tienen 0 líneas en común.
+
+El Fichero "./test02/test02" y el Fichero "./test05/test05" coinciden en un 0.00%
+
+
+
+Comparando Fichero 2:"./test02/test02" con Fichero 6: "./test06/test06":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 2	|	FICHERO 6	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    304		|         0.00       |
+Num. líneas vacías:	|	    0		|	    30		|         0.00       |
+Num. líneas comentario:	|	    0		|	    153		|         0.00       |
+Num. líneas código:	|	    0		|	    121		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    4		|         0.00       |
+Num. sentencias for:	|	    0		|	    5		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    41		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    31		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test02/test02" y el Fichero "./test06/test06" tienen 0 líneas en común.
+
+El Fichero "./test02/test02" y el Fichero "./test06/test06" coinciden en un 0.00%
+
+
+
+Comparando Fichero 2:"./test02/test02" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 2	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    0		|	    205		|         0.00       |
+Num. líneas vacías:	|	    0		|	    21		|         0.00       |
+Num. líneas comentario:	|	    0		|	    81		|         0.00       |
+Num. líneas código:	|	    0		|	    103		|         0.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    0		|	    3		|         0.00       |
+Num. sentencias for:	|	    0		|	    4		|         0.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    0		|	    43		|         0.00       |
+			|			|			|                    |
+Num. total variables:	|	    0		|	    26		|         0.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test02/test02" y el Fichero "./test07/test07" tienen 0 líneas en común.
+
+El Fichero "./test02/test02" y el Fichero "./test07/test07" coinciden en un 0.00%
+
+
+
+Comparando Fichero 3:"./test03/test03" con Fichero 4: "./test04/test04":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 3	|	FICHERO 4	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    94		|	    105		|         0.90       |
+Num. líneas vacías:	|	    14		|	    7		|         0.50       |
+Num. líneas comentario:	|	    52		|	    73		|         0.71       |
+Num. líneas código:	|	    28		|	    25		|         0.89       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    1		|         1.00       |
+Num. sentencias for:	|	    4		|	    4		|         1.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    5		|	    3		|         0.60       |
+			|			|			|                    |
+Num. total variables:	|	    10		|	    8		|         0.80       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test03/test03" y el Fichero "./test04/test04" tienen 54 líneas en común.
+Pero sólo comparten 22 líneas de código, las 32 restantes son comentarios.
+
+El Fichero "./test03/test03" y el Fichero "./test04/test04" coinciden en un 83.73%
+
+
+
+Comparando Fichero 3:"./test03/test03" con Fichero 5: "./test05/test05":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 3	|	FICHERO 5	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    94		|	    304		|         0.31       |
+Num. líneas vacías:	|	    14		|	    30		|         0.47       |
+Num. líneas comentario:	|	    52		|	    153		|         0.34       |
+Num. líneas código:	|	    28		|	    121		|         0.23       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    4		|         0.25       |
+Num. sentencias for:	|	    4		|	    5		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    5		|	    41		|         0.12       |
+			|			|			|                    |
+Num. total variables:	|	    10		|	    31		|         0.32       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test03/test03" y el Fichero "./test05/test05" tienen 48 líneas en común.
+Pero sólo comparten 17 líneas de código, las 31 restantes son comentarios.
+
+El Fichero "./test03/test03" y el Fichero "./test05/test05" coinciden en un 34.42%
+
+
+
+Comparando Fichero 3:"./test03/test03" con Fichero 6: "./test06/test06":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 3	|	FICHERO 6	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    94		|	    304		|         0.31       |
+Num. líneas vacías:	|	    14		|	    30		|         0.47       |
+Num. líneas comentario:	|	    52		|	    153		|         0.34       |
+Num. líneas código:	|	    28		|	    121		|         0.23       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    4		|         0.25       |
+Num. sentencias for:	|	    4		|	    5		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    5		|	    41		|         0.12       |
+			|			|			|                    |
+Num. total variables:	|	    10		|	    31		|         0.32       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test03/test03" y el Fichero "./test06/test06" tienen 48 líneas en común.
+Pero sólo comparten 17 líneas de código, las 31 restantes son comentarios.
+
+El Fichero "./test03/test03" y el Fichero "./test06/test06" coinciden en un 34.42%
+
+
+
+Comparando Fichero 3:"./test03/test03" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 3	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    94		|	    205		|         0.46       |
+Num. líneas vacías:	|	    14		|	    21		|         0.67       |
+Num. líneas comentario:	|	    52		|	    81		|         0.64       |
+Num. líneas código:	|	    28		|	    103		|         0.27       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    3		|         0.33       |
+Num. sentencias for:	|	    4		|	    4		|         1.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    5		|	    43		|         0.12       |
+			|			|			|                    |
+Num. total variables:	|	    10		|	    26		|         0.38       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test03/test03" y el Fichero "./test07/test07" tienen 49 líneas en común.
+Pero sólo comparten 17 líneas de código, las 32 restantes son comentarios.
+
+El Fichero "./test03/test03" y el Fichero "./test07/test07" coinciden en un 45.17%
+
+
+
+Comparando Fichero 4:"./test04/test04" con Fichero 5: "./test05/test05":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 4	|	FICHERO 5	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    105		|	    304		|         0.35       |
+Num. líneas vacías:	|	    7		|	    30		|         0.23       |
+Num. líneas comentario:	|	    73		|	    153		|         0.48       |
+Num. líneas código:	|	    25		|	    121		|         0.21       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    4		|         0.25       |
+Num. sentencias for:	|	    4		|	    5		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    3		|	    41		|         0.07       |
+			|			|			|                    |
+Num. total variables:	|	    8		|	    31		|         0.26       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test04/test04" y el Fichero "./test05/test05" tienen 92 líneas en común.
+Pero sólo comparten 18 líneas de código, las 74 restantes son comentarios.
+
+El Fichero "./test04/test04" y el Fichero "./test05/test05" coinciden en un 32.92%
+
+
+
+Comparando Fichero 4:"./test04/test04" con Fichero 6: "./test06/test06":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 4	|	FICHERO 6	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    105		|	    304		|         0.35       |
+Num. líneas vacías:	|	    7		|	    30		|         0.23       |
+Num. líneas comentario:	|	    73		|	    153		|         0.48       |
+Num. líneas código:	|	    25		|	    121		|         0.21       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    4		|         0.25       |
+Num. sentencias for:	|	    4		|	    5		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    3		|	    41		|         0.07       |
+			|			|			|                    |
+Num. total variables:	|	    8		|	    31		|         0.26       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test04/test04" y el Fichero "./test06/test06" tienen 92 líneas en común.
+Pero sólo comparten 18 líneas de código, las 74 restantes son comentarios.
+
+El Fichero "./test04/test04" y el Fichero "./test06/test06" coinciden en un 32.92%
+
+
+
+Comparando Fichero 4:"./test04/test04" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 4	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    105		|	    205		|         0.51       |
+Num. líneas vacías:	|	    7		|	    21		|         0.33       |
+Num. líneas comentario:	|	    73		|	    81		|         0.90       |
+Num. líneas código:	|	    25		|	    103		|         0.24       |
+			|			|			|                    |
+Num. sentencias if:	|	    1		|	    3		|         0.33       |
+Num. sentencias for:	|	    4		|	    4		|         1.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    3		|	    43		|         0.07       |
+			|			|			|                    |
+Num. total variables:	|	    8		|	    26		|         0.31       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test04/test04" y el Fichero "./test07/test07" tienen 93 líneas en común.
+Pero sólo comparten 18 líneas de código, las 75 restantes son comentarios.
+
+El Fichero "./test04/test04" y el Fichero "./test07/test07" coinciden en un 44.23%
+
+
+
+Comparando Fichero 5:"./test05/test05" con Fichero 6: "./test06/test06":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 5	|	FICHERO 6	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    304		|	    304		|         1.00       |
+Num. líneas vacías:	|	    30		|	    30		|         1.00       |
+Num. líneas comentario:	|	    153		|	    153		|         1.00       |
+Num. líneas código:	|	    121		|	    121		|         1.00       |
+			|			|			|                    |
+Num. sentencias if:	|	    4		|	    4		|         1.00       |
+Num. sentencias for:	|	    5		|	    5		|         1.00       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    41		|	    41		|         1.00       |
+			|			|			|                    |
+Num. total variables:	|	    31		|	    31		|         1.00       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test05/test05" y el Fichero "./test06/test06" tienen 274 líneas en común.
+Pero sólo comparten 109 líneas de código, las 165 restantes son comentarios.
+
+El Fichero "./test05/test05" y el Fichero "./test06/test06" coinciden en un 100.00%
+
+
+
+Comparando Fichero 5:"./test05/test05" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 5	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    304		|	    205		|         0.67       |
+Num. líneas vacías:	|	    30		|	    21		|         0.70       |
+Num. líneas comentario:	|	    153		|	    81		|         0.53       |
+Num. líneas código:	|	    121		|	    103		|         0.85       |
+			|			|			|                    |
+Num. sentencias if:	|	    4		|	    3		|         0.75       |
+Num. sentencias for:	|	    5		|	    4		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    41		|	    43		|         0.95       |
+			|			|			|                    |
+Num. total variables:	|	    31		|	    26		|         0.84       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test05/test05" y el Fichero "./test07/test07" tienen 156 líneas en común.
+Pero sólo comparten 74 líneas de código, las 82 restantes son comentarios.
+
+El Fichero "./test05/test05" y el Fichero "./test07/test07" coinciden en un 78.88%
+
+
+
+Comparando Fichero 6:"./test06/test06" con Fichero 7: "./test07/test07":
+ 			 ____________________________________________________________________
+			|			|			|                    |
+			|	FICHERO 6	|	FICHERO 7	|    COINCIDENCIA    |
+			|_______________________|_______________________|____________________|
+			|			|			|                    |
+Num. líneas totales:	|	    304		|	    205		|         0.67       |
+Num. líneas vacías:	|	    30		|	    21		|         0.70       |
+Num. líneas comentario:	|	    153		|	    81		|         0.53       |
+Num. líneas código:	|	    121		|	    103		|         0.85       |
+			|			|			|                    |
+Num. sentencias if:	|	    4		|	    3		|         0.75       |
+Num. sentencias for:	|	    5		|	    4		|         0.80       |
+Num. sentencias while:	|	    0		|	    0		|         1.00       |
+Num. sentencias echo:	|	    41		|	    43		|         0.95       |
+			|			|			|                    |
+Num. total variables:	|	    31		|	    26		|         0.84       |
+			|_______________________|_______________________|____________________|
+
+El Fichero "./test06/test06" y el Fichero "./test07/test07" tienen 156 líneas en común.
+Pero sólo comparten 74 líneas de código, las 82 restantes son comentarios.
+
+El Fichero "./test06/test06" y el Fichero "./test07/test07" coinciden en un 78.88%
+
+
+
+
+
+
+METODOLOGÍA EMPLEADA EN EL CÁLCULO DE LOS PORCENTAJES DE COINCIDENCIA:
+
+Para calcular el porcentaje de coincidencia entre dos ficheros se ha usado una metodología de pesos ponderados, así cada variable empleada dispone, en general, de un peso específico diferente en el porcentaje final de coincidencia.
+
+Hemos dividido el porcentaje final de coincidencias en dos Indicadores: Indicador Líneas e Indicador Sentencias
+
+El Indicador Líneas tiene un peso sobre el porcentaje final del 40% y en él están comprendidas los siguientes
+subindicadores con los siguientes pesos:
+- El Subindicador Líneas Totales tiene un peso en el Indicador Líneas de un 30%
+- El Subindicador Líneas en blanco tiene un peso en el Indicador Líneas de un 10%
+- El Subindicador Líneas comentario tiene un peso en el Indicador Líneas de un 30%
+- El Subindicador Líneas código tiene un peso en el Indicador Líneas de un 40%
+Si alguno de los Subindicadores no apareciera su peso se repartiría entre el resto de Subindicadores Línea
+
+El Indicador Sentencias tiene un peso sobre el porcentaje final del 60% y en el están comprendidos los siguientes
+Subindicadores. Los pesos relativos de cada uno de ellos son iguales:
+- El Subindicador Sentencias IF tiene un peso en el Indicador Sentencias de un 20%
+- El Subindicador Sentencias FOR tiene un peso en el Indicador Sentencias de un 20%
+- El Subindicador Sentencias WHILE tiene un peso en el Indicador Sentencias de un 20%
+- El Subindicador Sentencias ECHO tiene un peso en el Indicador Sentencias de un 20%
+- El Subindicador Variables tiene un peso en el Indicador Sentencias de un 20%
+Si alguno de los Subindicadores no apareciera su peso se repartiría entre el resto de Subindicadores Sentencia
+
+ATENCIÓN: Hay que tener en cuenta que este Script está orientado a comparar Scripts, no va a funcionar correctamente si comparamos otro tipo de ficheros. Puede darse el caso de que comparemos dos archivos de texto idénticos y sólo consigamos un porcentaje de coincidencia del 30%.

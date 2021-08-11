@@ -1,0 +1,12 @@
+En el entorno de pruebas se cumplen las siguientes premisas:
+
+- CarpetaVacia1: Carpeta Vacía
+- CarpetaVacia2: Carpeta sin ficheros con el mismo nombre
+- test01: Fichero vacío con el mismo nombre que el subdirectorio (al menos)
+- test02: Fichero vacío con el mismo nombre que el subdirectorio (al menos)
+- test03: Carpeta con el primer borrador del script (al menos)
+- test04: Carpeta con el segundo borrador del script (al menos)
+- test05: Carpeta con el cuarto borrador del script (al menos)
+- test06: Carpeta con el cuarto borrador del script (al menos)
+- test07: Carpeta con el tercer borrador del script (al menos)
+
